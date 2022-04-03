@@ -205,4 +205,8 @@ End Sub
 ## Summary
 -	Advantages and Disadvantages of refactoring code in general
 
+A few of the advantages of the refactored code or just refactoring code in general is that you can scale it back to reduce the number of steps it uses to generate the results. This speeds up your reporting which will increase your end users productivity and reduce any potential frustration waiting on the code to run. It can also be easier for others who view your code to understand what your logic is and how it works. A disadvantage is you could scale it back to much where it doesn’t factor every possible in some cases.
+
 -	Advantages and Disadvantages of the original and refactored VBA script
+
+A disadvantage to the original script is it included steps that didn’t need to be in there so it caused the report to run longer. For example before refactoring the code it took on average 1.2 to 1.4 seconds to gather the results. After refactoring it averaged 0.3 seconds which is about 77% faster. In business time is money so if you can reduce your teams time waiting on reports to run that is a positive impact to the bottom line educing wasted labor. 
