@@ -2,6 +2,8 @@
 Model 2 VBA - stock-analysis
 ## Overview of Project
 
+The objective of this project is to help Steve evaluate both his parents stock of choice DQ and the other stock investment options. We are looking at if his parents are winning or losing with their narrow approach of only investing in DQ and no other stock options. We’re building a model that will allow Steve to evaluate the different stocks over the past two years. This will give him the information he needs to have a financial conversation with his parents.
+
 ### Purpose and background
 
 ## Results
