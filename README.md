@@ -10,6 +10,8 @@ Steve’s parents met years ago while working at Dairy Queen. They believe that 
 
 ## Results
 
+DQ stock did well in 2017 with a 199.4% return on investment but it fell of during 2018 coming in at a loss on -62.6% for the year. If you had bought stock in early 2017 and kept through 2018 you would still be up 136%. There were two stocks that had favorable returns in both 2017 & 2018. ENPH had a positive return of 129.5% in 2017 & 81.9% return in 2018. The second stock that had year over year returns was RUN with 5.5% in 2017 & 84% in 2018. Steve’s parents should split their investments between DQ, ENPH, RUN & SEDG. Over the past two years these four stock have a good run rate.
+
 ### Analysis
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/101777677/161446487-a5e52b33-6cbe-44c2-bdaa-d580e75460a8.JPG)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/101777677/161446500-8ac9ae85-5379-4104-b2ad-daa0ed80389b.JPG)
