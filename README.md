@@ -6,6 +6,8 @@ The objective of this project is to help Steve evaluate both his parents stock o
 
 ### Purpose and background
 
+Steve’s parents met years ago while working at Dairy Queen. They believe that since they’ve had a successful life together that a stock called DQ must have the same luck. Steve is concerned for his parents financial future as they’re putting all their retirement planning into one stock. Steve wants your help to evaluate how well DQ has performed during the past two years. He also wants to how other stocks have performed so he can review the data with his parents to help educate them on their finical decisions. The end goal is to make sure his parents are continuing to grow their wealth and not losing money. 
+
 ## Results
 
 ### Analysis
