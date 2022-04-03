@@ -1,14 +1,14 @@
 # stock-analysis
 Model 2 VBA - stock-analysis
-##Overview of Project
+## Overview of Project
 
-###The purpose and background are well defined (2 pt).
+### The purpose and background are well defined (2 pt).
 
-##Results
+## Results
 
-###The analysis is well described with screenshots and code (4 pt).
+### The analysis is well described with screenshots and code (4 pt).
 
-##Summary
+## Summary
 -	There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
 
 -	There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
