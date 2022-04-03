@@ -203,6 +203,6 @@ Sub FormatingDQAnalysis()
 End Sub
 
 ## Summary
--	There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
+-	Advantages and Disadvantages of refactoring code in general
 
--	There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
+-	Advantages and Disadvantages of the original and refactored VBA script
